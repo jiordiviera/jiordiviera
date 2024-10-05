@@ -41,7 +41,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiordiviera&show_icons=true&locale=en&layout=compact" alt="jiordiviera" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiordiviera&show_icons=true&locale=en" alt="jiordiviera" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiordiviera&show_icons=true&locale=fr" alt="jiordiviera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiordiviera&" alt="jiordiviera" /></p>
 
