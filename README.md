@@ -43,5 +43,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiordiviera&show_icons=true&locale=fr" alt="jiordiviera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiordiviera&" alt="jiordiviera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiordiviera&locale=fr" alt="jiordiviera" /></p>
 
