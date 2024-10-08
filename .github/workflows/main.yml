@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Fetch latest blog posts
-        run: curl https://portfolio.jd-devs.com/api/latest-posts > latest-posts.json
+        run: curl https://portfolio.jd-devs.com/api/posts > latest-posts.json
 
       - name: Update README
         run: |
