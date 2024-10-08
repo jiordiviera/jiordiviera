@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
   workflow_dispatch:
+env:
+  GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
+
 
 jobs:
   update-readme:
@@ -16,15 +19,11 @@ jobs:
         run: curl https://portfolio.jd-devs.com/api/posts > latest-posts.json
 
       - name: Update README
-        run: |
+        run:
           node updateReadme.js
-          
+
       - name: Commit changes
-        run: |
-          git config --local user.email "jiordikengne@gmail.com"
-          git config --local user.name "jiordiviera"
+        run:
           git add README.md
           git commit -m "Update README with latest blog posts"
           git push
-        env: 
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
