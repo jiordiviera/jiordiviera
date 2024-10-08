@@ -35,9 +35,11 @@ jobs:
           git config user.name 'Jiordi Viera'
           git config user.email 'jiordikengne@gmail.com'
 
-      # Commit et push les modifications
+          # Commit et push les modifications avec le token
       - name: Commit and Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git add README.md
           git commit -m "Update latest blog posts [skip ci]"
-          git push
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
