@@ -21,12 +21,6 @@ jobs:
         with:
           php-version: '8.0'
 
-      - name: Install Composer
-        run: curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
-
-      - name: Install dependencies
-        run: composer install
-
       - name: Update README
         run: php posts.php
 
