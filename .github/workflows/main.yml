@@ -1,31 +1,43 @@
-name: Update README with latest blog posts
+name: Update Latest Blog Posts
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 0 * * *'
   workflow_dispatch:
-env:
-  GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
-
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      # Vérifie le dépôt Git
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Fetch latest blog posts
-        run: curl https://portfolio.jd-devs.com/api/posts > latest-posts.json
+      # Installe Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-      - name: Update README
+
+
+      - name: Fetch latest posts
+        run: curl -sS https://portfolio.jd-devs.com/api/posts -o latest-posts.json
+
+      # Exécute le script pour mettre à jour le README
+      - name: Run update script
+        run: node updateReadme.js
+
+      # Configure git pour pousser les modifications
+      - name: Configure Git
         run: |
-          node updateReadme.js
-          
-      - name: Commit changes
+          git config user.name 'Jiordi Viera'
+          git config user.email 'jiordikengne@gmail.com'
+
+      # Commit et push les modifications
+      - name: Commit and Push changes
         run: |
-          git config --local user.email "jiordikengne@gmail.com"
-          git config --local user.name "jiordiviera"
           git add README.md
-          git commit -m "Update README with latest blog posts"
+          git commit -m "Update latest blog posts [skip ci]"
           git push
