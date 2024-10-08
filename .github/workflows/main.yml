@@ -1,54 +1,31 @@
-name: Update Latest Blog Posts
+name: Update README with latest blog posts
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'  # Runs every hour
   workflow_dispatch:
   push:
-
-
+    branches:
+      - main
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
-    permissions:
-      issues: write
-
     steps:
-      # Vérifie le dépôt Git
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      # Installe Node.js
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
+      - name: Fetch latest blog posts
+        run: curl https://portfolio.jd-devs.com/api/latest-posts > latest-posts.json
 
-      # Récupère les derniers posts depuis l'API
-      - name: Fetch latest posts
-        run: curl -sS https://portfolio.jd-devs.com/api/posts -o latest-posts.json
+      - name: Update README
+        run: |
+          node updateReadme.js
 
-      # Exécute le script pour mettre à jour le README
-      - name: Run update script
-        run: node updateReadme.js
-
-      # Configure git pour pousser les modifications
-#      - name: Configure Git
-#        run: |
-#          git config user.name 'Jiordi Viera'
-#          git config user.email 'jiordikengne@gmail.com'
-
-          #      # Commit et Push des modifications en utilisant le GitHub Token natif
-          #      - name: Commit and Push changes
-          #        run: |
-          #          git add README.md
-          #          git commit -m "Update latest blog posts [skip ci]"
-          #          git push
-          #        env:
-          #          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: gh issue comment $ISSUE --body "Thank you for opening this issue!"
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ISSUE: ${{ github.event.issue.html_url }}
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README with latest blog posts"
+          git push
