@@ -1,68 +1,65 @@
-<h1 align="center">Hi 👋, I'm JIORDI VIERA</h1>
-<h3 align="center">A Passionate Developer from Cameroon</h3>
+### 👋 Hi, I'm **Jiordi Viera** 
 
-<p align="center">
-  <a href="https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac">
-    <img src="https://wakatime.com/badge/user/018ed8c5-bd85-4755-846b-57b604409cac.svg" alt="Wakatime Profile Badge" />
-  </a>
-  <a href="https://twitter.com/jiordi_kengne" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/jiordi_kengne?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=jiordiviera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Badge" />
-</p>
+I'm a **passionate developer** with a focus on **Laravel**, **Livewire**, **Alpine.js**, and **Tailwind CSS**. I love automating development tasks, building interactive user interfaces, and crafting backend solutions. I also enjoy sharing my knowledge through blog posts and open-source contributions.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app.vercel.app/?username=jiordiviera&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+### 🚀 Current Projects
 
-- 🔭 I’m currently working on [ITEC](https://itec.jd-devs.com)
-- 🌱 I’m currently learning **React.js, React Native, Next.js**
-- 👨‍💻 Check out my portfolio at [portfolio.jd-devs.com](https://portfolio.jd-devs.com)
-- 📝 I regularly write on my blog at [portfolio.jd-devs.com/blog](https://portfolio.jd-devs.com/blog)
-- 💬 Ask me about **Laravel, Alpine.js, Livewire, Tailwind CSS, React.js**
-- 📫 Reach me at **jiordikengne@gmail.com**
+- **Laravel Task Automator**  
+  A package to automate repetitive tasks in Laravel development such as CRUD generation, authentication setup, and more.  
+  [View Project](https://github.com/jiordiviera/Laravel-Task-Automator)
+
+- **Laravel Log Cleaner**  
+  A package to clear the content of your Laravel log files with a simple command.  
+  [View Project](https://github.com/jiordiviera/laravel-log-cleaner)
+
+- **Portfolio Website**  
+  A showcase of my projects, blogs, and accomplishments.  
+  [Visit Portfolio](https://portfolio.jd-devs.com)
+
+### ✍️ Latest Blog Posts
+
+I write about **Laravel**, **Livewire**, **Alpine.js**, and **Tailwind CSS** on my blog. Here are some of my latest posts:
+
+- [Le Versionning : Pourquoi il est Essentiel dans le Développement Logiciel]([https://portfolio.jd-devs.com/blog/post-1](https://portfolio.jd-devs.com/post/le-versionning-pourquoi-il-est-essentiel-dans-le-developpement-logiciel))
+- [Comment les Tendances du Web Design Transforment l'Expérience Utilisateur en 2024]([https://portfolio.jd-devs.com/blog/post-2](https://portfolio.jd-devs.com/post/comment-les-tendances-du-web-design-transforment-lexperience-utilisateur-en-2024))
+
+Read more on [my blog](https://portfolio.jd-devs.com/blog) for insights on these topics!
+
+### 📊 Development Stats
+
+- **Wakatime Coding Activity**  
+  ![Wakatime](https://wakatime.com/badge/user/018ed8c5-bd85-4755-846b-57b604409cac.svg)  
+  You can check out my coding stats and activity insights via [Wakatime](https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac).
+
+  Here's a recent snapshot of my coding activity:
+
+  [![Wakatime Stats](https://wakatime.com/share/@dev_jiordi/aa69cee8-f560-4bd3-b7fb-575f2bedb3a9.png)](https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac)
+
+  For detailed charts and breakdowns, visit [my Wakatime profile](https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac).
+
+- **GitHub Stats**  
+  ![Jiordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiordiviera&show_icons=true&theme=radical)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiordiviera&layout=compact&theme=radical)
+
+### 🌱 Currently Learning
+
+- **React.js**
+- **Next.js**
+- **React Native**
+
+### 💬 Ask Me About
+
+- Laravel
+- Alpine.js
+- Livewire
+- Tailwind CSS
+- React.js
+
+### 📫 Contact Me
+
+- Email: **jiordikengne@gmail.com**
+- Portfolio: [portfolio.jd-devs.com](https://portfolio.jd-devs.com)
+- GitLab: [@jiordikengne](https://gitlab.com/jiordikengne)
+- LinkedIn: [Jiordi Viera](https://www.linkedin.com/in/jiordi-viera)
 
 ---
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/kengnejiordi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" alt="codepen" height="30" width="40" /></a>
-  <a href="https://dev.to/jiordi_kengne" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/jiordi_kengne" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/jiordi-viera" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/jiordi-viera" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-  <a href="https://medium.com/@jiordikengne" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="medium" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" alt="Laravel" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React.js" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-  <a href="https://alpinejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/alpinejs.svg" alt="Alpine.js" width="40" height="40" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" width="40" height="40" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiordiviera&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiordiviera&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiordiviera" alt="GitHub Streak Stats" />
-</p>
