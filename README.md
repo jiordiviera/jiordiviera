@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm JIORDI VIERA</h1>
 <h3 align="center">A passionate developer from Cameroon</h3>
 
+[![wakatime](https://wakatime.com/badge/user/018ed8c5-bd85-4755-846b-57b604409cac.svg)](https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiordiviera&label=Profile%20views&color=0e75b6&style=flat" alt="jiordiviera" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiordiviera" alt="jiordiviera" /></a> </p>
