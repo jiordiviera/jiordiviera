@@ -27,4 +27,4 @@ jobs:
           git commit -m "Update README with latest blog posts"
           git push
         env: 
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
+          GH_TOKEN: ${{ secrets.ACTIONS_PAT }}
