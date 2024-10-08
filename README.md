@@ -20,10 +20,7 @@ I'm a **passionate developer** with a focus on **Laravel**, **Livewire**, **Alpi
 
 I write about **Laravel**, **Livewire**, **Alpine.js**, and **Tailwind CSS** on my blog. Here are some of my latest posts:
 
-- [Le Versionning : Pourquoi il est Essentiel dans le Développement Logiciel]([https://portfolio.jd-devs.com/blog/post-1](https://portfolio.jd-devs.com/post/le-versionning-pourquoi-il-est-essentiel-dans-le-developpement-logiciel))
-- [Comment les Tendances du Web Design Transforment l'Expérience Utilisateur en 2024]([https://portfolio.jd-devs.com/blog/post-2](https://portfolio.jd-devs.com/post/comment-les-tendances-du-web-design-transforment-lexperience-utilisateur-en-2024))
 
-Read more on [my blog](https://portfolio.jd-devs.com/blog) for insights on these topics!
 
 ### 📊 Development Stats
 

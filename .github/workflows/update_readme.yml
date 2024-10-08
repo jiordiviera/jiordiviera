@@ -1,0 +1,28 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch latest blog posts
+        run: curl https://portfolio.jd-devs.com/api/latest-posts > latest-posts.json
+
+      - name: Update README
+        run: |
+          node updateReadme.js
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README with latest blog posts"
+          git push
