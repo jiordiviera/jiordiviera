@@ -4,10 +4,16 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+  push:
+
+
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
+    permissions:
+      issues: write
 
     steps:
       # Vérifie le dépôt Git
@@ -29,16 +35,20 @@ jobs:
         run: node updateReadme.js
 
       # Configure git pour pousser les modifications
-      - name: Configure Git
-        run: |
-          git config user.name 'Jiordi Viera'
-          git config user.email 'jiordikengne@gmail.com'
+#      - name: Configure Git
+#        run: |
+#          git config user.name 'Jiordi Viera'
+#          git config user.email 'jiordikengne@gmail.com'
 
-      # Commit et Push des modifications en utilisant le GitHub Token natif
-      - name: Commit and Push changes
-        run: |
-          git add README.md
-          git commit -m "Update latest blog posts [skip ci]"
-          git push
+          #      # Commit et Push des modifications en utilisant le GitHub Token natif
+          #      - name: Commit and Push changes
+          #        run: |
+          #          git add README.md
+          #          git commit -m "Update latest blog posts [skip ci]"
+          #          git push
+          #        env:
+          #          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: gh issue comment $ISSUE --body "Thank you for opening this issue!"
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.html_url }}
