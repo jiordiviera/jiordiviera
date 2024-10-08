@@ -3,6 +3,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/018ed8c5-bd85-4755-846b-57b604409cac.svg)](https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dev_jiordi/aa69cee8-f560-4bd3-b7fb-575f2bedb3a9.png" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiordiviera&label=Profile%20views&color=0e75b6&style=flat" alt="jiordiviera" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiordiviera" alt="jiordiviera" /></a> </p>
