@@ -20,8 +20,7 @@ jobs:
         with:
           node-version: '18'
 
-
-
+      # Récupère les derniers posts depuis l'API
       - name: Fetch latest posts
         run: curl -sS https://portfolio.jd-devs.com/api/posts -o latest-posts.json
 
@@ -35,11 +34,11 @@ jobs:
           git config user.name 'Jiordi Viera'
           git config user.email 'jiordikengne@gmail.com'
 
-          # Commit et push les modifications avec le token
+      # Commit et Push des modifications en utilisant le GitHub Token natif
       - name: Commit and Push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git add README.md
           git commit -m "Update latest blog posts [skip ci]"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
