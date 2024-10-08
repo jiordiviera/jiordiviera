@@ -1,9 +1,10 @@
-name: Update README with latest blog posts
+name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 * * * *' # Run every hour
   workflow_dispatch:
+#    On utilisera php pour lancer le fichier posts.php
   push:
     branches:
       - main
@@ -12,20 +13,32 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Fetch latest blog posts
-        run: curl https://portfolio.jd-devs.com/api/latest-posts > latest-posts.json
+      - name: Install PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.0'
+
+      - name: Install Composer
+        run: curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+
+      - name: Install dependencies
+        run: composer install
 
       - name: Update README
-        run: |
-          node updateReadme.js
+        run: php posts.php
 
       - name: Commit changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update README with latest blog posts"
-          git push
+          git commit -m "Update README.md"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
