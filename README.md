@@ -20,6 +20,7 @@ I'm a **passionate developer** with a focus on **Laravel**, **Livewire**, **Alpi
 
 I write about **Laravel**, **Livewire**, **Alpine.js**, and **Tailwind CSS** on my blog. Here are some of my latest posts:
 
+[👉 The last posts here](https://portfolio.jd-devs.com/blog)
 
 
 ### 📊 Development Stats
