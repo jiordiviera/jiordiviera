@@ -12,11 +12,11 @@ I'm a **Full Stack Developer** passionate about crafting efficient digital solut
 
 - **Professional Portfolio**  
   A dynamic showcase of my technical expertise, featuring detailed project case studies, technical insights, and development achievements.  
-  [Visit Portfolio](https://portfolio.jd-devs.com)
+  [Visit Portfolio](https://my.jd-devs.com)
 
 ### 💡 Technical Blog
 I maintain an active technical blog focusing on advanced web development practices, sharing in-depth insights about **Laravel**, **Livewire**, **Alpine.js**, and **Tailwind CSS**. My articles cover everything from architectural decisions to practical implementation guides.
-[📚 Read Latest Articles](https://portfolio.jd-devs.com/blog)
+[📚 Read Latest Articles](https://my.jd-devs.com/blog)
 
 ### 📊 Development Metrics
 - **Active Coding Engagement**  
