@@ -36,6 +36,6 @@ I maintain an active technical blog focusing on advanced web development practic
 
 ### 📫 Professional Networks
 - ✉️ Email: **jiordikengne@gmail.com**
-- 🌐 Portfolio: [dev-jiordi.site](https://dev-jiordi.site)
+- 🌐 Portfolio: [jiordiviera.me](https://jiordiviera.me)
 - 🔧 GitLab: [@jiordikengne](https://gitlab.com/jiordikengne)
 - 💼 LinkedIn: [Jiordi Viera](https://www.linkedin.com/in/jiordiviera)
