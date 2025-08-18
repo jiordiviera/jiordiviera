@@ -19,6 +19,22 @@ I maintain an active technical blog focusing on advanced web development practic
 [📚 Read Latest Articles](https://my.jd-devs.com/blog)
 
 ### 📊 Development Metrics
+
+- **🎮 Interactive Contribution Game**  
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="images/breakout-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="images/breakout-light.svg"
+    />
+    <img alt="Breakout Game based on GitHub contributions" src="images/breakout-light.svg" />
+  </picture>
+  
+  *Play Breakout with my GitHub contributions! Each block represents my coding activity.*
+
 - **Active Coding Engagement**  
   ![Wakatime](https://wakatime.com/badge/user/018ed8c5-bd85-4755-846b-57b604409cac.svg)  
   Track my real-time development activity and coding patterns through [Wakatime](https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac).
