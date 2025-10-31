@@ -1,68 +1,79 @@
-### 👋 Hi, I'm **Jiordi Viera**
+### 👋 Hi, I'm Jiordi Viera
 
-**Full-Stack Developer** specializing in **Laravel**, **Next.js**, and **React**.  
-I build **scalable apps, SaaS platforms, and open-source tools** that simplify workflows and empower developers.
-
----
-
-### 🚀 Featured Projects
-
-- **🔖 [Codepit](https://codepit.jiordiviera.me)**  
-  A modern snippet manager to organize and share code snippets.  
-
-- **📨 PulseSend** *(in progress)*  
-  Email delivery SaaS for startups needing reliable, lightweight infrastructure.  
-
-- **🧹 [Laravel Log Cleaner](https://github.com/jiordiviera/laravel-log-cleaner)**  
-  Automates Laravel log cleanup and keeps your projects clean.
+**Full-Stack Developer at [Genuka](https://genuka.com)**  
+Building **developer tools**, **SaaS platforms**, and **open-source projects** that empower developers and startups across Africa.  
+Focused on **developer productivity**, **automation**, and **clean software design**.
 
 ---
 
-### 📊 Developer Activity
+### 🧩 About Me
 
-![Wakatime](https://wakatime.com/badge/user/018ed8c5-bd85-4755-846b-57b604409cac.svg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiordiviera&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiordiviera&layout=compact&theme=radical)
-
----
-
-### ✍️ Writing & Knowledge Sharing
-
-I write about **Laravel, Next.js, and developer productivity**,  
-sharing insights from real-world projects and open-source building.
-
-📚 [Read my latest articles](https://my.jd-devs.com/blog)
+- 💼 Currently improving developer experience at **Genuka**
+- 🧰 Creator of [Laravel Log Cleaner](https://github.com/jiordiviera/laravel-log-cleaner) — 900+ downloads  
+- 🚀 Building [PulseSend](https://pulse-send.jiordiviera.me) — SaaS email delivery platform  
+- 🔖 Founder of [Codepit](https://codepit.jiordiviera.me) — organize & share reusable code snippets  
+- ✍️ Writing 30+ articles on [my blog](https://jiordiviera.me/blog)  
+- 💡 Passionate about **open-source**, **developer tools**, and **African tech ecosystems**
 
 ---
 
-### 🛠️ Technical Expertise
+### 🌍 Featured Projects
 
-**Backend:** Laravel · PHP · Node.js · Spring Boot  
-**Frontend:** React · Next.js · Livewire · Tailwind CSS  
-**DevOps:** Docker · GitHub Actions · GitLab CI · REST APIs  
-**Databases:** MySQL · PostgreSQL · Redis  
+| Project | Description |
+|:--------|:-------------|
+| 🔖 [Codepit](https://codepit.jiordiviera.me) | Modern snippet manager for developers. |
+| 🧹 [Laravel Log Cleaner](https://github.com/jiordiviera/laravel-log-cleaner) | Automates Laravel log cleanup and improves performance. |
+| 📨 [PulseSend](https://pulse-send.jiordiviera.me) | SaaS email delivery platform for startups. |
+
+---
+
+### ✍️ Latest Articles
+
+- [De 0 à 900 téléchargements : l’histoire de mes packages Laravel](https://jiordiviera.me/blog/de-0-a-900-telechargements-lhistoire-de-mes-packages-laravel)  
+- [Développement web au Cameroun : défis et opportunités](https://blog.jiordiviera.me/dveloppement-web-au-cameroun-dfis-et-opportunits)  
+- [Pourquoi j’ai créé Codepit](https://jiordiviera.me/blog/pourquoi-jai-cree-codepit)
+
+➡️ [Read all articles →](https://jiordiviera.me/blog)
 
 ---
 
 ### 📈 Real Dev Metrics
 
-- **Laravel Log Cleaner** → ![Downloads](https://img.shields.io/packagist/dt/jiordiviera/laravel-log-cleaner?color=blue&label=downloads)  
-  Used by Laravel developers to automate log cleanup.  
-- **Open Source** → 20+ public repositories across SaaS, tools, and packages.  
-- **Writing** → 30+ blog articles on Laravel, Next.js, and productivity.  
-- **100DaysOfCode** → Documenting daily progress across open-source and real-world projects.
+<p align="center">
+  <a href="https://packagist.org/packages/jiordiviera/laravel-log-cleaner">
+    <img src="https://img.shields.io/packagist/dt/jiordiviera/laravel-log-cleaner?color=blue&label=Laravel%20Log%20Cleaner%20downloads" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-20%2B%20repos-brightgreen" />
+  <img src="https://img.shields.io/badge/Articles-30%2B-orange" />
+  <img src="https://img.shields.io/badge/100DaysOfCode-Active-purple" />
+</p>
 
 ---
 
-### 📫 Connect with Me
+### 💻 Developer Activity
 
-- ✉️ [jiordikengne@gmail.com](mailto:jiordikengne@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jiordiviera)  
-- 🐙 [GitHub](https://github.com/jiordiviera)  
-- 🔧 [GitLab](https://gitlab.com/jiordikengne)
+<p align="center">
+  <a href="https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac">
+    <img src="https://wakatime.com/badge/user/018ed8c5-bd85-4755-846b-57b604409cac.svg" alt="Wakatime Badge"/>
+  </a><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jiordiviera&show_icons=true&theme=radical" height="150"/>
+</p>
 
 ---
 
-⭐️ *Building tools and platforms that empower developers and businesses across Africa and beyond.*
+### 🧠 Philosophy
 
-<img src="https://komarev.com/ghpvc/?username=jiordiviera&label=Profile%20views&color=0e75b6&style=flat" alt="jiordiviera" />
+> “Building tools and platforms that empower developers and businesses across Africa —  
+> because innovation should be local, open, and scalable.”
+
+---
+
+### 📫 Connect
+
+[Email](mailto:jiordikengne@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jiordiviera) • [GitHub](https://github.com/jiordiviera) • [Blog](https://jiordiviera.me)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jiordiviera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
