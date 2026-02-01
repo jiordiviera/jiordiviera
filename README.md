@@ -21,41 +21,6 @@ Full-Stack Developer based in Douala, Cameroon. I build developer tools, SaaS pl
 
 ---
 
-## Open Source Packages
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Laravel Log Cleaner</h3>
-      <p align="center">
-        <a href="https://github.com/jiordiviera/laravel-log-cleaner">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiordiviera&repo=laravel-log-cleaner&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/packagist/dt/jiordiviera/laravel-log-cleaner?color=blue&label=downloads" />
-        <img src="https://img.shields.io/packagist/v/jiordiviera/laravel-log-cleaner?color=green" />
-        <img src="https://img.shields.io/github/stars/jiordiviera/laravel-log-cleaner?color=yellow" />
-      </p>
-      <p align="center"><strong>Memory-efficient log management with compression & backup for Laravel 9-12</strong></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Laravel Smart Scheduler</h3>
-      <p align="center">
-        <a href="https://github.com/jiordiviera/laravel-smart-scheduler">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiordiviera&repo=laravel-smart-scheduler&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/packagist/dt/jiordiviera/laravel-smart-scheduler?color=blue&label=downloads" />
-        <img src="https://img.shields.io/packagist/v/jiordiviera/laravel-smart-scheduler?color=green" />
-      </p>
-      <p align="center"><strong>Intelligent task scheduling with observability & stuck task detection</strong></p>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ## SaaS & Developer Tools
 
@@ -65,18 +30,6 @@ Full-Stack Developer based in Douala, Cameroon. I build developer tools, SaaS pl
 | [**Listify**](https://listify.jiordiviera.me)              | Kanban-based project management with team collaboration & analytics    | Next.js, TypeScript |
 | [**PostForge**](https://postforge.jiordiviera.me)          | Transform markdown into styled LinkedIn posts with Unicode formatting  | TypeScript          |
 | [**Markdown Editor**](https://markdown-editor.jiordiviera.me) | Clean, minimal markdown editor with live preview                       | TypeScript          |
-
-<br/>
-
-## Latest Articles
-
-<!-- BLOG-POST-LIST:START -->
-- 🔧 [I built a Laravel package to stop silent cron failures](https://dev.to/jiordiviera/i-built-a-laravel-package-to-stop-silent-cron-failures-1o25)
-- 📚 [L'Injection de Dépendances: Comment le Service Container de Laravel Vous Rend Invincible](https://dev.to/jiordiviera)
-- 🚀 [Laravel Log Cleaner v2.01 - Memory-Efficient Log Management](https://dev.to/jiordiviera/laravel-log-cleaner-v201-memory-efficient-log-management-with-compression-backup-loc)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [**More articles on my blog**](https://jiordiviera.me/blog) — 30+ articles on Laravel, Next.js & African tech
 
 <br/>
 
