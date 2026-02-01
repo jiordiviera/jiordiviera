@@ -46,7 +46,7 @@ Full-Stack Developer based in Douala, Cameroon. I build developer tools, SaaS pl
 
 <p align="center">
   <a href="https://packagist.org/packages/jiordiviera/">
-    <img src="https://img.shields.io/badge/Packagist-1.3K%2B_downloads-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Packagist-1.7K%2B_downloads-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" />
   </a>
   
   <a href="https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac">
