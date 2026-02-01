@@ -1,23 +1,14 @@
-# Jiordi Viera
-
 Full-Stack Developer based in Douala, Cameroon. I build developer tools, SaaS platforms, and open-source packages that help teams ship faster. Currently working at [Genuka](https://genuka.com) and maintaining several Laravel packages with 1,300+ downloads.
-
-<p align="center">
-  <a href="https://jiordiviera.me"><img src="https://img.shields.io/badge/Portfolio-jiordiviera.me-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/jiordiviera"><img src="https://img.shields.io/badge/LinkedIn-jiordiviera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/jiordiviera"><img src="https://img.shields.io/badge/X-@jiordiviera-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:hello@jiordiviera.me"><img src="https://img.shields.io/badge/Email-hello@jiordiviera.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 ---
 
 ## Tech Stack
 
-**Languages:** PHP, TypeScript, JavaScript
-**Frontend:** React, Next.js, TailwindCSS
-**Backend:** Laravel, Node.js, Spring Boot
-**Databases:** MySQL, PostgreSQL, Redis
-**DevOps:** Docker, GitHub Actions, Vercel
+- **Languages:** PHP, TypeScript, JavaScript
+- **Frontend:** React, Next.js, TailwindCSS
+- **Backend:** Laravel, Node.js, Spring Boot
+- **Databases:** MySQL, PostgreSQL, Redis
+- **DevOps:** Docker, GitHub Actions, Vercel
 
 ---
 
