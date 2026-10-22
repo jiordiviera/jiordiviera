@@ -10,6 +10,8 @@ I build **developer tools, reliable backends, and products that solve real probl
 
 [Portfolio](https://jiordiviera.me) · [Blog](https://blog.jiordiviera.me) · [LinkedIn](https://www.linkedin.com/in/jiordiviera/) · [GitLab](https://gitlab.com/jiordiviera)
 
+![Profile views](https://komarev.com/ghpvc/?username=jiordiviera&label=Profile%20views&color=6C63FF&style=flat)
+
 </div>
 
 ---
@@ -17,37 +19,65 @@ I build **developer tools, reliable backends, and products that solve real probl
 ### A little about me
 
 - 🎓 Engineering student in **Information Systems at EPISEN (UPEC)**, France.
-- 🛠️ Previously **Tech Lead at Genuka**, working on payment systems, APIs, backend architecture, and production reliability.
+- 🛠️ Former **Tech Lead at Genuka**, working on payment systems, APIs, backend architecture, and production reliability.
 - 📦 Building and maintaining open-source tools, especially in the **Laravel** ecosystem.
 - 🔎 Interested in **backend engineering, distributed systems, DevOps, and developer experience**.
+
+### Tech stack
+
+- **Languages:** PHP, TypeScript, JavaScript
+- **Backend:** Laravel, Node.js, Spring Boot, REST APIs, queues, webhooks
+- **Frontend:** React, Next.js, Livewire, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, Redis
+- **DevOps:** Docker, GitHub Actions, Linux, Caddy, Nginx, Vercel
 
 ### Selected work
 
 | Project | What it does |
 | --- | --- |
-| [**Laravel Log Cleaner**](https://github.com/jiordiviera/laravel-log-cleaner) | Helps Laravel developers manage and clean application logs. **3,500+ downloads.** |
-| [**Prooflog**](https://github.com/jiordiviera/prooflog) | A lightweight operations journal for tracking production changes and incidents. |
-| [**Patchwise**](https://github.com/jiordiviera/patchwise) | AI-assisted CLI for writing better conventional commits. |
+| [**Laravel Log Cleaner**](https://github.com/jiordiviera/laravel-log-cleaner) | Manage and clean Laravel application logs. **3,500+ downloads.** |
+| [**Prooflog**](https://github.com/jiordiviera/prooflog) | Operations journal for production changes and incidents. |
+| [**Patchwise**](https://github.com/jiordiviera/patchwise) | AI-assisted CLI for conventional commits. |
 | [**PulseSend**](https://pulse-send.jiordiviera.me) | Transactional email infrastructure for developers. |
-| [**Webhook Trap**](https://webhooktrap.dev) | A developer-friendly space to inspect and debug webhooks. |
-| [**Velyx**](https://velyx.dev) | A component registry and tooling for Laravel applications. |
+| [**Webhook Trap**](https://webhooktrap.dev) | Inspect and debug webhooks. |
+| [**Velyx**](https://velyx.dev) | Laravel component registry and tooling. |
+| [**Listify**](https://listify.jiordiviera.me) | Kanban-based team project management. |
+| [**PostForge**](https://postforge.jiordiviera.me) | Turn Markdown into styled LinkedIn posts. |
+| [**Markdown Editor**](https://markdown-editor.jiordiviera.me) | Minimal Markdown editor with live preview. |
 
-### What I work with
+### GitHub stats
 
-**Backend:** PHP, Laravel, Node.js, TypeScript, REST APIs, queues, webhooks  
-**Frontend:** React, Next.js, Livewire, Tailwind CSS  
-**Data:** MySQL, PostgreSQL, Redis  
-**Infrastructure:** Docker, Linux, CI/CD, Caddy, Nginx, cloud deployments
+<div align="center">
 
-### How I approach software
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiordiviera&theme=tokyonight)
 
-I care about clean interfaces, dependable systems, and shipping things people actually use. My favorite projects sit at the intersection of **product thinking** and **engineering depth**.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiordiviera&theme=tokyonight" height="180" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiordiviera&theme=tokyonight&utcOffset=2" height="180" alt="Coding activity by time" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiordiviera&theme=tokyonight" height="180" alt="Repositories by language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiordiviera&theme=tokyonight" height="180" alt="Languages by commits" />
+
+</div>
+
+### Metrics
+
+<div align="center">
+
+[![Packagist](https://img.shields.io/badge/Packagist-Laravel%20Log%20Cleaner%203.5K%2B%20downloads-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/packages/jiordiviera/laravel-log-cleaner)
+
+[![WakaTime](https://wakatime.com/badge/user/018ed8c5-bd85-4755-846b-57b604409cac.svg?style=for-the-badge)](https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac)
+
+</div>
+
+### Philosophy
+
+> Building tools and platforms that empower developers and businesses, because innovation should be local, open, and scalable.
 
 ---
 
 <div align="center">
 
-**Let's connect and build something useful.**
+**Open to collaborations on developer tools and tech initiatives.**
 
 [Email](mailto:hello@jiordiviera.me) · [LinkedIn](https://www.linkedin.com/in/jiordiviera/) · [Website](https://jiordiviera.me)
 
