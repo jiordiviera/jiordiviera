@@ -10,7 +10,7 @@ I build **developer tools, reliable backends, and products that solve real probl
 
 [Portfolio](https://jiordiviera.me) · [Blog](https://blog.jiordiviera.me) · [LinkedIn](https://www.linkedin.com/in/jiordiviera/) · [GitLab](https://gitlab.com/jiordiviera)
 
-![Profile views](https://komarev.com/ghpvc/?username=jiordiviera&label=Profile%20views&color=6C63FF&style=flat)
+![Profile counter](https://komarev.com/ghpvc/?username=jiordiviera&label=Profile%20counter&color=6C63FF&style=flat)
 
 </div>
 
@@ -31,11 +31,23 @@ I build **developer tools, reliable backends, and products that solve real probl
 - **Databases:** MySQL, PostgreSQL, Redis
 - **DevOps:** Docker, GitHub Actions, Linux, Caddy, Nginx, Vercel
 
+### Open-source downloads
+
+<div align="center">
+
+[![Laravel Log Cleaner downloads](https://img.shields.io/packagist/dt/jiordiviera/laravel-log-cleaner?style=for-the-badge&logo=packagist&label=Laravel%20Log%20Cleaner%20downloads&color=F28D1A)](https://packagist.org/packages/jiordiviera/laravel-log-cleaner)
+
+[![Patchwise downloads](https://img.shields.io/npm/dt/patchwise?style=for-the-badge&logo=npm&label=Patchwise%20downloads&color=CB3837)](https://www.npmjs.com/package/patchwise)
+
+</div>
+
+*Download badges update automatically from Packagist and npm (subject to badge caching).*
+
 ### Selected work
 
 | Project | What it does |
 | --- | --- |
-| [**Laravel Log Cleaner**](https://github.com/jiordiviera/laravel-log-cleaner) | Manage and clean Laravel application logs. **3,500+ downloads.** |
+| [**Laravel Log Cleaner**](https://github.com/jiordiviera/laravel-log-cleaner) | Manage and clean Laravel application logs. |
 | [**Prooflog**](https://github.com/jiordiviera/prooflog) | Operations journal for production changes and incidents. |
 | [**Patchwise**](https://github.com/jiordiviera/patchwise) | AI-assisted CLI for conventional commits. |
 | [**PulseSend**](https://pulse-send.jiordiviera.me) | Transactional email infrastructure for developers. |
@@ -59,11 +71,9 @@ I build **developer tools, reliable backends, and products that solve real probl
 
 </div>
 
-### Metrics
+### Coding activity
 
 <div align="center">
-
-[![Packagist](https://img.shields.io/badge/Packagist-Laravel%20Log%20Cleaner%203.5K%2B%20downloads-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/packages/jiordiviera/laravel-log-cleaner)
 
 [![WakaTime](https://wakatime.com/badge/user/018ed8c5-bd85-4755-846b-57b604409cac.svg?style=for-the-badge)](https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac)
 
