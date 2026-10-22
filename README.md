@@ -1,74 +1,54 @@
-Full-Stack Developer based in Douala, Cameroon. I build developer tools, SaaS platforms, and open-source packages that help teams ship faster. Currently working at [Genuka](https://genuka.com) and maintaining several Laravel packages with 1,300+ downloads.
+<div align="center">
+
+# Hey, I'm Jiordi 👋
+
+**Software Engineer · Open-source builder · Engineering student**
+
+Based in France 🇫🇷 · Originally from Cameroon 🇨🇲
+
+I build **developer tools, reliable backends, and products that solve real problems**.
+
+[Portfolio](https://jiordiviera.me) · [Blog](https://blog.jiordiviera.me) · [LinkedIn](https://www.linkedin.com/in/jiordiviera/) · [GitLab](https://gitlab.com/jiordiviera)
+
+</div>
 
 ---
 
-## Tech Stack
+### A little about me
 
-- **Languages:** PHP, TypeScript, JavaScript
-- **Frontend:** React, Next.js, TailwindCSS
-- **Backend:** Laravel, Node.js, Spring Boot
-- **Databases:** MySQL, PostgreSQL, Redis
-- **DevOps:** Docker, GitHub Actions, Vercel
+- 🎓 Engineering student in **Information Systems at EPISEN (UPEC)**, France.
+- 🛠️ Previously **Tech Lead at Genuka**, working on payment systems, APIs, backend architecture, and production reliability.
+- 📦 Building and maintaining open-source tools, especially in the **Laravel** ecosystem.
+- 🔎 Interested in **backend engineering, distributed systems, DevOps, and developer experience**.
 
----
+### Selected work
 
+| Project | What it does |
+| --- | --- |
+| [**Laravel Log Cleaner**](https://github.com/jiordiviera/laravel-log-cleaner) | Helps Laravel developers manage and clean application logs. **3,500+ downloads.** |
+| [**Prooflog**](https://github.com/jiordiviera/prooflog) | A lightweight operations journal for tracking production changes and incidents. |
+| [**Patchwise**](https://github.com/jiordiviera/patchwise) | AI-assisted CLI for writing better conventional commits. |
+| [**PulseSend**](https://pulse-send.jiordiviera.me) | Transactional email infrastructure for developers. |
+| [**Webhook Trap**](https://webhooktrap.dev) | A developer-friendly space to inspect and debug webhooks. |
+| [**Velyx**](https://velyx.dev) | A component registry and tooling for Laravel applications. |
 
-## SaaS & Developer Tools
+### What I work with
 
-| Product                                                    | Description                                                            | Stack               |
-| :--------------------------------------------------------- | :--------------------------------------------------------------------- | :------------------ |
-| [**PulseSend**](https://pulse-send.jiordiviera.me)         | Transactional email delivery optimized for African markets — 99.9% SLA | Laravel, Node.js    |
-| [**Listify**](https://listify.jiordiviera.me)              | Kanban-based project management with team collaboration & analytics    | Next.js, TypeScript |
-| [**PostForge**](https://postforge.jiordiviera.me)          | Transform markdown into styled LinkedIn posts with Unicode formatting  | TypeScript          |
-| [**Markdown Editor**](https://markdown-editor.jiordiviera.me) | Clean, minimal markdown editor with live preview                       | TypeScript          |
+**Backend:** PHP, Laravel, Node.js, TypeScript, REST APIs, queues, webhooks  
+**Frontend:** React, Next.js, Livewire, Tailwind CSS  
+**Data:** MySQL, PostgreSQL, Redis  
+**Infrastructure:** Docker, Linux, CI/CD, Caddy, Nginx, cloud deployments
 
-<br/>
+### How I approach software
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiordiviera&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiordiviera&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiordiviera&theme=tokyonight&utcOffset=1" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiordiviera&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiordiviera&theme=tokyonight" height="180" />
-</p>
-
-<br/>
-
-## Metrics
-
-<p align="center">
-  <a href="https://packagist.org/packages/jiordiviera/">
-    <img src="https://img.shields.io/badge/Packagist-1.7K%2B_downloads-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" />
-  </a>
-  
-  <a href="https://wakatime.com/@018ed8c5-bd85-4755-846b-57b604409cac">
-    <img src="https://wakatime.com/badge/user/018ed8c5-bd85-4755-846b-57b604409cac.svg?style=for-the-badge" />
-  </a>
-</p>
-
-<br/>
-
-## Philosophy
-
-> _"Building tools and platforms that empower developers and businesses across Africa — because innovation should be local, open, and scalable."_
-
-<br/>
+I care about clean interfaces, dependable systems, and shipping things people actually use. My favorite projects sit at the intersection of **product thinking** and **engineering depth**.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiordiviera&label=Profile%20views&color=6C63FF&style=flat" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>💼 Open to collaborations on developer tools & African tech initiatives</strong><br/>
-  <a href="mailto:hello@jiordiviera.me">Let's build something together →</a>
-</p>
+**Let's connect and build something useful.**
+
+[Email](mailto:hello@jiordiviera.me) · [LinkedIn](https://www.linkedin.com/in/jiordiviera/) · [Website](https://jiordiviera.me)
+
+</div>
